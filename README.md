@@ -8,6 +8,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayandeep02/credit-card-fraud-detection/HEAD)
+
+
 # Credit Card Fraud Detection : Project Overview
 * Handle imbalanced dataset by applying SMOTE and Random Under-Sampling, plus removing the extreme outliers
 * Compare which technique fits best to handle the imbalanced datasaet
